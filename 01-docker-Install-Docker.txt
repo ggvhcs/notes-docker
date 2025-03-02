@@ -1,5 +1,10 @@
 # --- *** Install Docker and Docker Compose in Linux Mint 21 *** --- #
 
+--- github ---
+https://github.com/ggvhcs/notes-docker
+--- youtube ---
+https://youtu.be/6naBDtriryE
+
 This is the way, what I used for install docker and docker-compose on my Mint 21.
 If you want to learn docker, I recommend the pelado nerd docker course in youtube.
 
